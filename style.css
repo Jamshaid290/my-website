@@ -670,7 +670,7 @@ box-shadow: 0 2px 7px rgba(0, 0, 0, 0.2);
       rgba(0, 0, 0, 0.8),
       rgba(0, 0, 0, 1)
     ),
-    url("hero.jpg");
+    url("images/hero.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1515,4 +1515,5 @@ textarea {
 .icon-marquee:hover .icon-track {
   animation-play-state: paused;
 }
+
 
