@@ -268,7 +268,7 @@ display: flex;
       rgba(0, 0, 0, 0.8),
       rgba(0, 0, 0, 1)
     ),
-    url("hero.jpg");
+    url("images/hero.jpg");
    
     padding: 1rem;
 
@@ -1515,3 +1515,4 @@ textarea {
 .icon-marquee:hover .icon-track {
   animation-play-state: paused;
 }
+
