@@ -301,6 +301,9 @@ display: flex;
 }
 
 @media (max-width:770px) {
+    .hero{
+    padding: 0.3rem;
+    }
  .hero-title{
   font-size: 2.4rem;}
 }
@@ -1479,6 +1482,7 @@ textarea {
     border: 0;
     display: block;
 }
+
 
 
 
